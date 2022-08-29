@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "894686183906",
+    "project_id": "user-authentication-cca-fall",
+    "storage_bucket": "user-authentication-cca-fall.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894686183906:android:82f122bb14df04cb8b39bb",
+        "android_client_info": {
+          "package_name": "com.example.user_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894686183906-d937h8on8mag0nuoss874llknp6j5rfg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD6HdvWWc4x_FasANwnFqoh_DiAxlK-wY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894686183906-d937h8on8mag0nuoss874llknp6j5rfg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
