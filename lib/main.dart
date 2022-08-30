@@ -5,7 +5,7 @@ import 'package:user_auth/auth_controller.dart';
 import 'package:user_auth/login_page.dart';
 import 'package:user_auth/sign_up_page.dart';
 import 'package:user_auth/welcome_page.dart';
-
+// THIS IS PRACTICE TO PUSH CHANGES ON GITHUB
 void main() async{
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp().then((value)=>Get.put(AuthController()));
