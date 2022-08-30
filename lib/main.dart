@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return GetMaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Flutter Demo',
+      title: 'User Auth with Flutter and Firebase',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
